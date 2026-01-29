@@ -1,4 +1,4 @@
-# 🗂️ Task Manager App
+#  Task Manager App
 
 A modern and fully functional Task Manager application built with **React, TailwindCSS, Node.js, and Express**.
 
@@ -6,22 +6,22 @@ This project allows users to manage their tasks with features like adding, updat
 
 ---
 
-## 🚀 Features
+ Features
 
-- ➕ Add new tasks  
-- ✏️ Edit / update tasks  
-- 🗑️ Delete tasks  
-- 📂 Categories (Work, Personal, Home, etc.)  
-- ⚡ Priority levels (High, Medium, Low)  
-- 📅 Deadlines  
-- ✅ Mark tasks as Done / Undo  
-- 🔍 Search tasks by title  
-- 🎯 Filter tasks by status (All / Pending / Done)  
-- 💅 Modern & responsive UI with TailwindCSS  
+-  Add new tasks  
+-  Edit / update tasks  
+-  Delete tasks  
+-  Categories (Work, Personal, Home, etc.)  
+-  Priority levels (High, Medium, Low)  
+-  Deadlines  
+-  Mark tasks as Done / Undo  
+-  Search tasks by title  
+-  Filter tasks by status (All / Pending / Done)  
+-  Modern & responsive UI with TailwindCSS  
 
 ---
 
-## 🛠️ Tech Stack
+ Tech Stack
 
 **Frontend:**
 - React
@@ -34,7 +34,7 @@ This project allows users to manage their tasks with features like adding, updat
 
 ---
 
-## 📂 Project Structure
+##  Project Structure
 
 ```text
 task-manager/
